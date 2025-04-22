@@ -1,0 +1,1 @@
+# -solution-of-finding-absolute-diagonal-difference-in-square-matrix
